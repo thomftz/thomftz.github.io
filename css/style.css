@@ -580,6 +580,13 @@
 			color: white;
 		}
 
+			.wrapper.style2 .img {
+				border-radius: 100%;
+				position: relative;
+				height: auto;
+
+			}
+
 			.wrapper.style2 .button:hover {
 				background: rgba(255, 255, 255, 0.15) !important;
 			}
