@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Professional Experience"
 description: "Highlights in Work and Education"
 header-img: "img/about-bg.jpg"
