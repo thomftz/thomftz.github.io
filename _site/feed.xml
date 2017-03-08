@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clever Blog</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 07 Mar 2017 19:03:18 -0500</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2017 19:03:18 -0500</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Second thoughts</title>
+        <description>&lt;p&gt;I’m now into my 4th week here at &lt;a href=&quot;https://www.theironyard.com/locations/durham.html&quot;&gt;The Iron Yard, Durham&lt;/a&gt;. So far I have been learning Ruby and the associated tools for writing and deploying apps that we make. I’m getting familiar with &lt;a href=&quot;https://github.com/thomftz&quot;&gt;Git&lt;/a&gt; and &lt;a href=&quot;https://www.heroku.com/&quot;&gt;Heroku&lt;/a&gt;. I have enjoyed getting back into using the terminal and I think &lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt; is a fantastic editor. After learning the hand coded way to include SQL databases into our Ruby apps, we introduced the ORM, ActiveRecord to manage a lot of the connection and table association issues. That process really clicked with me, and connecting the object oriented part of Ruby with a DSL like &lt;a href=&quot;http://www.sinatrarb.com/&quot;&gt;Sinatra&lt;/a&gt; was fun to work at.&lt;/p&gt;
+
+&lt;p&gt;I still feel like I’ve got so far to go before I’m going to be able to do this for a living though. We get introduced to new tools and concepts so quick that when we were given a coding problem to solve today, I just stared at my editor like I didn’t know how to write anything. I have written enough code at this point where I can copy and paste certain elements without thinking about why I’m doing it. I want to try to slow down a bit and write my code with a slow and measured approach to see if I can accomplish certain functions with a cleaner aesthetic and a better developed logic.&lt;/p&gt;
+
+&lt;p&gt;I also want to learn a bit of JavaScript in the next couple of weeks. We had our first project last week where we combine the Front End and the Back End classes together to work on an interactive API. It was my first real look at what JavaScript does line by line, and I had several ideas for how to approach different problems on the front end of an application. My 5 year goal is to be Full Stack. JavaScript is definitely going to be a language I can’t live without, and I’d rather get started on it while my brain is in learning mode.&lt;/p&gt;
+
+&lt;p&gt;We’re starting to talk about the real end goal of all this work too - the jay oh bee. I’ve spent a bit of time updating my resume, and working on a portfolio site too. I’ve got so many littered repositories on GitHub that need the code cleaned up (or actually finished) that I could spend at least a week on just that. We’ve had several speakers come in to talk about different aspects of the industry, and the tools that they use. That has been really helpful to bridge the gap between the academic and the real world, and although I’m feeling unprepared for the next step, it’s helpful to see that this is a field where learning is the default mode.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Feb 2017 07:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2017/02/07/second-thoughts.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/02/07/second-thoughts.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>First thoughts</title>
+        <description>&lt;p&gt;This was not how my twenty seventeen was supposed to start. I was planning on getting hired by the local government in my town and start working as a GIS technician. The Friday before Xmas though, I got a letter from the town, “thanks but no thanks”.&lt;/p&gt;
+
+&lt;p&gt;So now Plan B. I’ve decided on following my dream of writing code for a living. I’ve always enjoyed coding, although I’m not even at an amateur level. I knew finishing my B.S. in computer science wasn’t an option, so I looked into these new coding schools that are basically 21st century trade schools. Within the past two weeks I’ve been able to apply for classes, get financing, and tomorrow I’ll be moving to Durham for 12 weeks to learn how to code in &lt;a href=&quot;https://www.ruby-lang.org/en/&quot;&gt;Ruby&lt;/a&gt; at &lt;a href=&quot;https://www.theironyard.com/locations/durham.html&quot;&gt;The Iron Yard&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Aside from living arrangements, there has been some pre-work assigned before the first day of class. Although I’m somewhat familiar with the software and processes involved in writing and deploying code, it’s been over 5 years since I’ve looked at any of it. Reviewing concepts in how to interact with computer through the command line and basic HTML/CSS were more challenging than I anticipated. It all started to come back to me, but it’s true that if you don’t use it, you lose it. Learning Git and basic Ruby concepts is a bit more complicated for me since I process what I learn through using the technology. The method for learning these concepts is interactive, so I was able to “break it” to understand it better. The difficulties in picking up the code have been discouraging, but not enough to dissuade me from learning it.&lt;/p&gt;
+
+&lt;p&gt;I’m really excited to be immersed in the learning and development process, and I hope that I’ll be able to keep pace with the work. I usually take a bit longer to learn something because I have to experience not just the success of making something work, but also all the different ways that you can break  it too. I’m very much looking forward to working with a team to build a useful web app, because the ends help me achieve the means.&lt;/p&gt;
+
+&lt;p&gt;All this is good and worthwhile, but for me, unless I can get a job afterwards it’s an expensive detour. I plan on taking full advantage of all the opportunities The Iron Yard offers for employment development. I’m not sure what sort of profile companies look for in a developer, but I want to be ready after the 3 months. I want to be well into a career after a year and in a senior position in 5-7 years.&lt;/p&gt;
+
+&lt;p&gt;This is something I’ve been hoping to do for years - I’m super stoked to have the chance.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Jan 2017 07:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2017/01/03/reflections.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/01/03/reflections.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

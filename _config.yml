@@ -1,0 +1,11 @@
+# Site settings
+title: Clever Blog
+email: t_f@me.com
+description: > # A constantly deleted git repository with a trail of attmpted layouts.
+baseurl: ""
+url: "https://thomftz.github.io"
+twitter_username: thomftz
+github_username:  thomftz
+
+# Build settings
+markdown: kramdown
