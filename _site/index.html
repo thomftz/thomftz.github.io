@@ -8,7 +8,7 @@
 -->
 
 <head>
-    <title>Clever Blog</title>
+    <title>Thomas Fitzpatrick</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="">
     <meta name="keywords" content="" />
@@ -44,14 +44,13 @@
 						<li><a href="/">Hi</a></li>
 						<li><a href="/contact.html">Contact</a></li>
 						<li><a href="https://github.com/thomftz" target="_blank">GitHub</a></li>
-						<li class="submenu">
-							<a href="">Projects</a>
-							<ul>
+						<li><a href="/#projects">Projects</a></li>
+							<!-- <ul>
 								<li><a href="https://github.com/thomftz/simon" target="_blank">Simon</a></li>
 								<li><a href="https://github.com/thomftz/medium-crossover" target="_blank">Medium Copy</a></li>
 								<li><a href="https://github.com/thomftz/nc_breweries" target="_blank">NC Beers</a></li>
 								<li><a href="https://github.com/thomftz/android_207" target="_blank">Android 207</a></li>
-								<!-- <li class="submenu">
+								<li class="submenu">
 									<a href="">Submenu</a>
 									<ul>
 										<li><a href="#">Dolore Sed</a></li>
@@ -60,11 +59,11 @@
 										<li><a href="#">Sed Magna</a></li>
 										<li><a href="#">Ipsum Nisl</a></li>
 									</ul>
-								</li> -->
+								</li>
 							</ul>
-						<!-- </li>
-						<li><a href="#" class="button special">Sign Up</a></li> -->
-					</ul>
+						</li>
+						<li><a href="#" class="button special">Sign Up</a></li>
+					</ul> -->
 				</nav>
 			</header>
 
@@ -194,12 +193,26 @@
 					<section class="wrapper style3 container special">
 
 						<header class="major">
-							<h2><strong>Recent Projects</strong> and Collaborations</h2>
+							<h2 id="projects"><strong>Recent Projects</strong> and Collaborations</h2>
 						</header>
 
 						<div class="row">
 							<div class="6u">
-
+								<section>
+									<a href="http://kit-trader.com/" class="image featured" target="_blank"><img src="images/kit-trader.jpg" alt="" /></a>
+									<header>
+										<h3>Kit-Trader / Ruby on Rails with React</h3>
+									</header>
+									<p>Final project for the Ruby on Rails Backend Engineering program at The Iron Yard.
+										Kit-trader is a single-purpose marketplace for the selling, trading and donation of previously-owned uniform kits.
+										Built with React with a Ruby on Rails API back end.
+									<br />
+									<a href="http://kit-trader.com/" target="_blank">Website</a> < -- >
+									<a href="https://github.com/thomftz/kit_trader" target="_blank">GitHub Repo</a>
+								</p>
+								</section>
+							</div>
+							<div class="6u">
 								<section>
 									<a href="https://simonsaidwhat.herokuapp.com/" class="image featured" target="_blank"><img src="images/simon.jpg" alt="" /></a>
 									<header>
@@ -213,8 +226,9 @@
 									</p>
 								</section>
 							</div>
+						</div>
+						<div class="row">
 							<div class="6u">
-
 								<section>
 									<a href="https://dhackelman.github.io/medium-crossover/" class="image featured" target="_blank"><img src="images/medium.jpg" alt="" /></a>
 									<header>
@@ -227,29 +241,8 @@
 										<a href="https://github.com/thomftz/medium-crossover" target="_blank">GitHub Repo</a>
 									</p>
 								</section>
-
-							</div>
-						</div>
-						<div class="row">
-							<div class="6u">
-
-								<section>
-									<a href="https://nc-beers.herokuapp.com/" class="image featured" target="_blank"><img src="images/nc-beers.jpg" alt="" /></a>
-									<header>
-										<h3>NC Beers / Ruby with Sinatra</h3>
-									</header>
-									<p>Interactive Web API that allows a user to search beers from some of NC's best breweries.
-										Built using Ruby and Sinatra, it runs on Puma and has a Postgres SQL DB. Breweries and beers
-										were pulled in via brewerydb.com's API, and reformated in JSON in a local DB.
-									<br />
-									<a href="https://nc-beers.herokuapp.com/" target="_blank">Heroku app</a> < -- >
-									<a href="https://github.com/thomftz/nc_breweries" target="_blank">GitHub Repo</a>
-								</p>
-								</section>
-
 							</div>
 							<div class="6u">
-
 								<section>
 									<a href="https://android-207.herokuapp.com/" class="image featured" target="_blank"><img src="images/android-207.jpg" alt="" /></a>
 									<header>
@@ -264,7 +257,6 @@
 										<a href="https://github.com/thomftz/android_207" target="_blank">GitHub Repo</a>
 									</p>
 								</section>
-
 							</div>
 						</div>
 
